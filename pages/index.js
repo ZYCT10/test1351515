@@ -19,7 +19,7 @@ const popupViewClose = popupView.querySelector('.form__close');
 const popupViewImage = popupView.querySelector('.popup__image');
 const popupViewDesc = popupView.querySelector('.popup__description');
 
-const elementList = document.querySelector('.elements');
+const elementList = document.querySelector('.elements__list');
 
 const initialCards = [
   {
